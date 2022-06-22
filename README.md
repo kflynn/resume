@@ -12,8 +12,8 @@ Pages file is the one true source: this README is just a summary._
 
 ## Highlights
 
-Thirty-year-plus computing veteran looking to lead a team working on making
-the world better. My experience ranges from solo coder to Silicon Valley
+Computing veteran of nearly forty years looking to lead with people working on
+making the world better. My experience ranges from solo coder to Silicon Valley
 executive, from bringup on bare metal to Kubernetes and cloud computing, and
 from low-key mentoring sessions to full-bore crisis management around the
 world. I’m known for combining exceptional technical expertise and an
@@ -47,7 +47,10 @@ and problem-solving skills.
 
 ## Career
 
-### 2014-present: Prompt.ly, Inc.
+### 2015-2022: Ambassador Labs (fka Datawire)
+- Principal Software Engineer
+
+### 2014-2015: Prompt.ly, Inc.
 - Head of Development
 
 ### 2011-2014: Basis Technology Corporation
