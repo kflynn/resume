@@ -12,72 +12,71 @@ Pages file is the one true source: this README is just a summary._
 
 ## Highlights
 
-Computing veteran of nearly forty years looking to lead with people working on
-making the world better. My experience ranges from solo coder to Silicon Valley
-executive, from bringup on bare metal to Kubernetes and cloud computing, and
-from low-key mentoring sessions to full-bore crisis management around the
-world. I’m known for combining exceptional technical expertise and an
-outstanding breadth of knowledge with excellent communications, mentoring,
-and problem-solving skills. 
+**Computing veteran of nearly forty years looking to lead in making the world better.**
+My experience ranges from solo coder to Silicon Valley executive, from bringup on bare metal to Kubernetes and cloud computing, and from low-key mentoring sessions to full-bore crisis management around the world. I’m known for combining exceptional technical expertise and an outstanding breadth of knowledge with excellent communications, mentoring, and problem-solving skills.
 
-### Strengths
-- Architect, design, and implement robust, high-performance, scalable, secure
-  solutions to complex problems, whether working from a clean sheet or diving
-  into a million lines of existing source.
-- Solve problems in complex systems, even while managing crisis situations.
-- Communicate effectively in a wide range of situations, to a wide range of
-  audiences.
+## Strengths
+
 - Provide leadership and mentoring where needed.
-- Adapt readily to new technologies, while retaining what’s useful in older
-  technologies.
+- Communicate effectively in a wide range of situations, to a wide range of audiences.
+- Solve problems in complex systems, even while managing crisis situations.
+- Adapt readily to new technologies, while retaining what’s useful in older technologies.
+- Architect, design, and implement robust, high-performance, scalable, secure solutions to complex problems, whether working from a clean sheet or diving into a million lines of existing source.
 
-### Technologies
+## Technologies
+
 - Extensive experience with:
-   - (in alphabetical order) C, CoffeeScript, C++, Java, JavaScript, Objective-C,
-     Perl, Python, shell, SQL, etc.
-   - iOS native development and cross-platform hybrid mobile development
-   - UNIX development and administration from System III forward, notably including
-     MacOS and Linux
-   - Database and SaaS platforms (including MySQL, PostgreSQL, Parse.com, Salesforce,
-     etc.)
-   - Internetworking, including performance, security, and protocol design, using
-     both IPv4 and IPv6
+   - Many programming languages, including Python, Golang, C, C++, JavaScript, Perl, shell, SQL, etc.
+   - UNIX development and administration from System III forward, notably including MacOS and Linux
+   - Internetworking, including performance, security, and protocol design, using both IPv4 and IPv6
    - Internet messaging
-- Familiar with Android development, Django, LISP, PHP, Ruby on Rails, etc.
+- Familiar with iOS and Android development, hybrid mobile development, LISP, MySQL, PostgreSQL, etc.
 
 ## Career
 
-### 2015-2022: Ambassador Labs (fka Datawire)
-- Principal Software Engineer
+### **2015-2022: Ambassador Labs, Inc. / Datawire, Inc.**
+- *Principal Software Engineer*: created and grew [Emissary-ingress](https://github.com/emissary-ingress/emissary)
+   - architect, implementor, mentor, tech lead, UI/UX, public speaker, persona-based design
 
-### 2014-2015: Prompt.ly, Inc.
-- Head of Development
+### **2014-2015: Prompt.ly, Inc.**
+- *Head of Development*: cross-platform mobile app development
+   - architect, implementor, mentor, tech lead, software manager, UI/UX
 
-### 2011-2014: Basis Technology Corporation
-- Principal Software Engineer, Digital Forensics
+### **2011-2014: Basis Technology Corporation**
+- *Principal Software Engineer*: digital forensics focused on mobile devices
+   - architect, implementor, tech lead, UI/UX
 
-### 2010-2011: iFan Media Corporation
-- iPhone Development Lead
-- Chief Security Officer
+### **2010-2011: iFan Media Corporation**
+- *iPhone Development Lead / Chief Security Officer*: mobile app development
+  - architect, implementor, UI/UX, secure business practices
 
-### 2007-2010: Mirapoint Software, Inc.
-- 2008-2010: Vice President, Field Technical Services
-- 2007-2008: Member of Technical Staff
+### **2009-2010: Mirapoint Software, Inc.**
+- *Vice President, Field Technical Services*: technical pre-sales and bespoke engineering management
+   - software manager, executive, mentor, tech lead, crisis manager
 
-### 1999-2007: Mirapoint, Inc.
-- Member of Technical Staff
+### **2007-2008: Mirapoint Software, Inc.**
+- *Member of Technical Staff*: release engineering lead
+   - architect, implementor, mentor, tech lead
 
-### 1996-1999: Cendant Internet Engineering
-- Systems Programmer and Managing Architect
+### **1999-2007: Mirapoint, Inc.**
+- *Member of Technical Staff*: internet messaging appliance development
+   - architect, implementor, UX
 
-### 1993-1996: Teradyne, Inc.
-- Design Engineer
+### **1996-1999: Cendant Internet Engineering**
+- *Systems Programmer / Managing Architect*: early e-commerce middleware and communications development
+   - architect, implementor, mentor, tech lead, software manager
 
-### 1988-1991: First Albany Corporation
-- Systems Analyst
+### **1993-1996: Teradyne, Inc.**
+- *Design Engineer*: automated test engineering infrastructure development
+   - architect, implementor
 
-### 1983-1987: Digitech Communcations, Inc.
-- Software Engineer
+### **1988-1991: First Albany Corporation**
+- *Systems Analyst*: UNIX administration and UI engineering
+   - architect, implementor, UI/UX
+
+### **1983-1987: Digitech Communcations, Inc.**
+- *Software Engineer*: data manipulation algorithms and UI development
+   - architect, implementor, UI/UX
 
 ## Education
 BS Computer & Systems Engineering, Rensselaer Polytechnic Institute, 1993
